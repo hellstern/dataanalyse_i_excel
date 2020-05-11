@@ -1,0 +1,1 @@
+﻿# År for år sammenligning i Pivottabeller
