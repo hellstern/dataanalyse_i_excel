@@ -1,0 +1,1 @@
+﻿# Rapportering af hierarkiske data
